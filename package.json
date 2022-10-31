@@ -1,13 +1,16 @@
-{
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  {
+  "name": "slotPG",
+  "theme": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง ไม่ผ่านเอเยนต์ แตกหนัก แจกหนัก",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "สล็อต",
+    "เว็บตรง",
+    "สล็อตไม่ผ่านเอเยนต์",
+    "PG",
+
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/slotPG.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
